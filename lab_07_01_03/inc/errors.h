@@ -1,0 +1,17 @@
+#ifndef ERRORS_H__
+#define ERRORS_H__
+
+#define ERROR_IO_FILE 1
+#define ERROR_EMPTY_POINT_LEN 2
+#define ERROR_EMPTY_POINT_ARR 3
+#define ERROR_EMPTY_ARR 7
+#define ERROR_INVALID_POINT 8
+#define ERROR_INVALID_DIGIT 10
+#define ERROR_MEMORY 4
+#define ERROR_READ_FILE 5
+#define ERRPR_EMPTY_FILE 6
+#define OK 0
+#define ERROR_COUNT_ARGC 9
+#define ERROR_INVALID_PARAM 11
+
+#endif

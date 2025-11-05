@@ -1,0 +1,16 @@
+aaa
+aaa
+15
+100
+bbb
+bbb
+15
+50
+ccc
+ccc
+15
+1000
+ddd
+ddd
+15
+75

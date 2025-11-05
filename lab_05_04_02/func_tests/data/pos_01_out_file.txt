@@ -1,0 +1,12 @@
+bbbb
+bbbb
+200
+3
+aaaa
+aaaa
+100
+1
+ccc
+ccc
+50
+2

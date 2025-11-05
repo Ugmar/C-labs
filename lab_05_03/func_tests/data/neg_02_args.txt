@@ -1,0 +1,1 @@
+./func_tests/data/neg_02_args.bin ./func_tests/data/neg_02_in_file.bin ./func_tests/data/neg_02_args.bin ./func_tests/data/neg_01_in_file.bin

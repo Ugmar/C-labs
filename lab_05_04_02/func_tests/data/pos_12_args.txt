@@ -1,0 +1,1 @@
+at ./func_tests/data/work_12_in_file.txt

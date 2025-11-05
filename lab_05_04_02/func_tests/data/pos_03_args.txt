@@ -1,0 +1,1 @@
+st ./func_tests/data/pos_03_in_file.txt ./func_tests/data/out_03_in_file.txt 

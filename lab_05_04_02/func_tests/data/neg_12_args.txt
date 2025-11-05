@@ -1,0 +1,1 @@
+ft ./func_tests/data/neg_12_in_file adsda

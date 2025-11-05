@@ -1,0 +1,1 @@
+asdfgh ./func_tests/data/neg_03_in_file.bin

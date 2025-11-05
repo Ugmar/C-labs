@@ -1,0 +1,1 @@
+st st ./func_tests/data/neg_07_in_file ./func_tests/data/neg_04_in_res
