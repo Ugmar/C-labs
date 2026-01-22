@@ -1,0 +1,1 @@
+./func_tests/data/pos_07_in_file.txt ./func_tests/data/pos_07_out.txt.file_out_result.txt sort

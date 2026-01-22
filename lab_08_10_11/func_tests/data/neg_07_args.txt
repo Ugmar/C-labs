@@ -1,0 +1,1 @@
+z ./func_tests/data/neg_07_in_file1.txt ./func_tests/data/neg_07_in_file2.txt ./func_tests/data/neg_07_out_file_res.txt

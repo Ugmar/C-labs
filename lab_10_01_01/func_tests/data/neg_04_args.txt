@@ -1,0 +1,1 @@
+./func_tests/data/neg_04_in_file.txt ./func_tests/data/neg_04_file_out_result.txt find

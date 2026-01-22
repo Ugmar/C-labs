@@ -1,0 +1,1 @@
+a ./func_tests/data/pos_01_in_file1.txt ./func_tests/data/pos_01_in_file2.txt ./func_tests/data/pos_01_out.txt

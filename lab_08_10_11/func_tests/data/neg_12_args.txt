@@ -1,0 +1,1 @@
+o ./func_tests/data/neg_12_in_file1.txt ./func_tests/data/neg_12_out_file_res.txt
